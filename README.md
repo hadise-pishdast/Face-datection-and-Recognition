@@ -1,0 +1,2 @@
+# Face-datection-and-Recognition
+Detect a face on a picture or live video and recognize the person. I described the face detection algorithm by Viola and Jones. There are four stages which contribute to fast and accurate detection: first of all, Haar-like features, second the integral image for feature computation, then Adaboost for feature selection and finally cascade filter for efficient computational resource allocation
